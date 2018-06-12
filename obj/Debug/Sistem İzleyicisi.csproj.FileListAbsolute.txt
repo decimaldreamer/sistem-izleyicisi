@@ -1,0 +1,10 @@
+C:\Users\Serdar\Desktop\New folder (2)\bin\Debug\SystemMonitor.exe
+C:\Users\Serdar\Desktop\New folder (2)\bin\Debug\SystemMonitor.pdb
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\Sistem İzleyicisi.csprojResolveAssemblyReference.cache
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\SystemMonitor.DataBar.resources
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\SystemMonitor.DataChart.resources
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\SystemMonitor.Form1.resources
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\Sistem İzleyicisi.csproj.GenerateResource.cache
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\Sistem İzleyicisi.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\SystemMonitor.exe
+C:\Users\Serdar\Desktop\New folder (2)\obj\Debug\SystemMonitor.pdb
